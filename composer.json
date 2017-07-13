@@ -1,0 +1,10 @@
+{
+    "name": "basili4/php-unisender",
+    "authors": [
+        {
+            "name": "basili4",
+            "email": "basili4.1982@gmail.com"
+        }
+    ],
+    "require": {}
+}
